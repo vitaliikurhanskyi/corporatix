@@ -1,0 +1,19 @@
+.nav__item.active {
+    background: #e0e0e0;
+}
+
+.gallery__item a {
+    display: inline-block;
+    padding: 4px 18px; 
+    margin-left: 14px;
+    border-radius: 14px;
+    color: #2945c0;
+    background: #e0e0e0;
+    color: #2845c0;
+    font: 400 13px Arial;
+    text-decoration: none;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+    border: 1px solid #9298a7;
+    box-shadow: 0px 2px 2px 0.00px rgba(60, 71, 98, 0.75);
+}

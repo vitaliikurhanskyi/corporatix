@@ -1,0 +1,9 @@
+{
+  "name": "corporatix",
+  "version": "0.1.0",
+  "dependencies": {
+    "normalize-css": "normalize.css#^4.0.0",
+    "slick-carousel": "^1.5.9",
+    "jquery": "1.12.2"
+  }
+}
